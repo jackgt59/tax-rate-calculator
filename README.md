@@ -1,2 +1,4 @@
-# tax-rate-calculator
-Tax Rate Calculator for Android
+# Tax Rate Calculator
+Material Design Tax Rate Calculator for Android
+
+![screenshot](screenshot.png)
