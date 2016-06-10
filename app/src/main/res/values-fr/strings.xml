@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculatrice de taux de taxe </string>
+    <string name="enter_amount">Entrez le montant </string>
+    <string name="tax_due">Taxe Due </string>
+    <string name="total">Prix total </string>
+</resources>
